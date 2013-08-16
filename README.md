@@ -1,5 +1,5 @@
-Spotify puzzles
-===============
+Solved Spotify puzzles
+======================
 
 Reversed Binary - https://www.spotify.com/jobs/tech/reversed-binary/
 

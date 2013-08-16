@@ -1,4 +1,6 @@
-These are my solutions to the two tech puzzles on spotify.com
+<h1>These are my solutions to the two tech puzzles on spotify.com</h1>
 
-- Reversed Binary https://www.spotify.com/se/jobs/tech/reversed-binary/
-- Zipf's song https://www.spotify.com/se/jobs/tech/zipfsong/
+<ol>
+	<li><a href="https://www.spotify.com/jobs/tech/reversed-binary/">Reversed Binary</a></li>
+	<li><a href="https://www.spotify.com/jobs/tech/zipfsong/">Zipf's song</a></li>
+</ol>
